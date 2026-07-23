@@ -25,14 +25,18 @@ I utilize this self-hosted environment to simulate real-world mobile app securit
 *Below are live captures verifying the operational functionality of my local testing network infrastructure:*
 
 #### 1. Unified Workspace Environment
-*[Insert Image 1 Link Here]*
+*![Unified Workspace Layout](Full%20workspace%20layout%20image%20stage1.png)*
 *Description: Full-screen display showing the integrated Kali Linux workspace running a root-access Genymotion virtual device next to the shell terminal.*
 
 #### 2. Frida Gadget Deployment & Injection
-*[Insert Image 2 Link Here]*
+*![Frida Active Injection Handshake](Handshake%20connection%20line%20image%20stage2.png)*
 *Description: Terminal log capturing the exact moment the Frida framework successfully injects into the target application binary package.*
 
 #### 3. Active Runtime Traffic Analysis
-*[Insert Image 3 Link Here]*
+*![Frida Live Trace Logs](Frida%20active%20trace%20logs%20image%20stage3.png)*
 *Description: Dynamic interaction sequence tracing runtime functions and capturing memory hooks during an active application session simulation.*
 
+### Lab Demonstration Assets
+#### Stage 1: Infrastructure & Testing Environment![Stage 1](Full%20workspace%20layout%20image%20stage1.png)
+#### Stage 2: Target Emulator Handshake Connection Verification![Stage 2](Handshake%20connection%20line%20image%20stage2.png)
+#### Stage 3: Dynamic Framework Instrumentation Tracing Logs![Stage 3](Frida%20active%20trace%20logs%20image%20stage3.png)
